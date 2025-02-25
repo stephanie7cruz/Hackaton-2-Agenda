@@ -1,4 +1,6 @@
-Proyecto: Sistema de Gestión de Agenda Telefónica
+Proyecto: 
+
+Sistema de Gestión de Agenda Telefónica
 Descripción del Proyecto
 Este proyecto implementa un sistema de gestión de una agenda telefónica mediante un menú interactivo en consola. La agenda permite agregar, buscar, listar, modificar y eliminar contactos, siguiendo ciertas restricciones y validaciones.
 
